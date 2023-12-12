@@ -14,8 +14,12 @@ Obsługuje podstawowe polecenia
 
 Zalecam umieścić "latwy-git.bat" w folderze w którym będą znajdować się repozytoria  tak aby mógł zarządzać wszystkimi repozytoriami, np:
 
-
-    C:/repozytoria/latwy-git.bat
+───repozytoria
+    │   latwy-git.bat
+    │
+    ├───repo1
+    ├───repo2
+    └───repo3
 
 Przy instalacji [GIT](https://github.com/git/git) trzeba również zaznaczyć opcję 
 

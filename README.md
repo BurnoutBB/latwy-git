@@ -16,7 +16,7 @@ Zalecam umieścić "latwy-git.bat" w folderze w którym będą znajdować się r
 
     C:/repozytoria/latwy-git.bat
 
-Przy instalacji GIT trzeba również zaznaczyć opcję 
+Przy instalacji https://{git}.github.io/{git} trzeba również zaznaczyć opcję 
 
     "Use Git from the Windows Command Prompt"
 

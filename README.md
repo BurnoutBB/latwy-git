@@ -1,6 +1,7 @@
 # Łatwy git
 
 Super uproszczenie do korzystania z gita
+( Tak napisałem to specjalnie dla was ( Dla siebie w sumie też) )
 
 Obsługuje podstawowe polecenia 
 

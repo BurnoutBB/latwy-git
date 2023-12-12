@@ -1,6 +1,5 @@
 @echo off
 mode con cols=35 lines=15
-title Japierdole
 :poczatek
 cls
 echo ===================================
